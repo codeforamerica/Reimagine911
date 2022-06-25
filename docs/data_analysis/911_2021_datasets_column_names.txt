@@ -1,0 +1,183 @@
+AZ_Chandler_calls_for_service_2021.csv
+['id', 'event_type', 'agency', 'call_id', 'call_number', 'call_year', 'call_received_date', 'call_received_time', 'call_received_date_time', 'call_received_day', 'call_place_name', 'call_address', 'call_city', 'call_district', 'call_beat', 'call_latitude', 'call_longitude', 'call_priority', 'call_how_received', 'call_reported_as', 'call_closed_as', 'call_cleared_by', 'call_dispatched_date_time', 'call_enroute_date_time', 'call_on_scene_date_time', 'call_911_date_time', 'call_response_time', 'call_911_to_rec_time', 'call_dispatch_to_enroute_time', 'call_rec_to_queue_time', 'call_queue_time', 'call_travel_time']
+
+AZ_Gilbert_Police_Department_Calls_For_Service_(FTP_Test).csv
+['X', 'Y', 'PoliceEventID', 'EventDate', 'CalendarYear', 'FiscalYear', 'EventType', 'HundredBlock', 'StreetDirection', 'StreetName', 'StreetSuffix', 'AddressFull', 'AddressCity', 'AddressState', 'CrossStreet1', 'CrossStreet2', 'Longitude', 'Latitude', 'ResponseTime', 'ObjectID', 'ObjectId2']
+
+AZ_Glendale_Police_Calls_for_Service.csv
+['OBJECTID', 'DateLoaded', 'Event_Number', 'Date_Call_Received', 'Day_Of_Week', 'Radio_Code', 'Call_Priority', 'Call_Disposition', 'Address', 'Beat', 'Council_District', 'Council_Member', 'Zip_Code', 'Patrol_Division']
+
+AZ_Mesa_Police_Computer_Aided_Dispatch_Events.csv
+['Event Number', 'Creation Datetime', 'Creation Month', 'Creation Year', 'Event Type Code', 'Event Type Description', 'Call Priority', 'Event Address', 'Street Number', 'Street Direction', 'Street Name', 'Street Type', 'Latitude', 'Longitude', 'Dispatch Group', 'Division', 'Response Time Seconds', 'Response Time Minutes', 'Location 1']
+
+AZ_Phoenix_calls-for-service-fire_calls-for-service-2021_calls_for_service.csv
+['INCIDENT', 'REPORTED', 'CLOSED', 'INCIDENT_ADDRESS', 'NATURE_CODE', 'NATURE_TEXT', 'CATEGORY']
+
+AZ_Phoenix_callsforsrvc2021.csv
+['INCIDENT_NUM', 'DISP_CODE', 'DISPOSITION', 'FINAL_RADIO_CODE', 'FINAL_CALL_TYPE', 'CALL_RECEIVED', 'HUNDREDBLOCKADDR', 'GRID']
+
+AZ_Scottsdale_Fire_Department_Calls_for_Service.csv
+['IncidentKey', 'IncidentNumber', 'IncidentDate', 'IncidentYype', 'Description', 'TypeGroup', 'SortOrder', 'IncidentAddress', 'City', 'IncidentResponse', 'ESRI_OID']
+
+AZ_Scottsdale_Police_Calls_for_Service.csv
+['Common_Event_ID', 'CFS_Number', 'Create_Date', 'Street_Directional_Prefix', 'Street_Name', 'Street_Type', 'Cross_Street_1', 'Cross_Street_2', 'Call_Type', 'Call_Sub_Type', 'Call_Type_English', 'Call_Sub_Type_English', 'CFS_Type', 'CFS_English']
+
+AZ_Tucson_Police_Calls_for_Service_-_2021_-_Open_Data.csv
+['OBJECTID', 'X', 'Y', 'call_id', 'case_id', 'acci_id', 'agency', 'ADDRESS_PUBLIC', 'city', 'state', 'zip', 'NEIGHBORHD', 'emdivision', 'ACTDATE', 'ACTTIME', 'ACTDATETIME', 'ACT_MONTH', 'ACT_YEAR', 'ACT_DOW', 'ACT_TIME', 'CAPRIORITY', 'NATURECODE', 'NatureCodeDesc', 'HOWRECEIVE', 'CSDISPOSIT', 'DispositionCodeDesc', 'LOC_STATUS', 'WARD', 'NHA_NAME', 'DIVISION', 'DIVISION_NO', 'DIVSECT', 'TRSQ', 'City_geo', 'ADDRESS_100BLK']
+
+CA_LosAngeles_LAPD_Calls_for_Service_2020.csv
+['Incident_Number', 'Area_Occ', 'Rpt_Dist', 'Dispatch_Date', 'Dispatch_Time', 'Call_Type_Code', 'Call_Type_Text']
+
+CA_Oakland_OPD_PublicCallData_2019.csv
+['Code', 'Description', 'Source', 'Priority', 'Beat', 'Address', 'Create Time', 'Transmit Time', 'Dispatch Time', 'Arrival Time', 'Closed Time', 'Disposition1', 'Disposition2', 'Disposition3', 'Disposition4', 'Disposition5']
+
+CA_Sacramento_Dispatch_Data_From_Current_Year.csv
+['X', 'Y', 'OBJECTID', 'Record_ID', 'Call_Type', 'Description', 'Reporting_Officer', 'Unit_ID', 'Report_Created', 'Location', 'Police_District', 'Beat', 'Grid', 'X_Coordinate', 'Y_Coordinate', 'Day_of_Week', 'Occurence_Date', 'Received_Date', 'Dispatch_Date', 'Enroute_Date', 'At_Scene_Date', 'Clear_Date']
+
+CA_Sacramento_Fire_Department_911_Call_Response.csv
+['X', 'Y', 'OBJECTID', 'Date', 'Incident_Reference', 'Responding_Station', 'Incident_Description', 'Incident_Type', 'Address', 'Property_Use', 'Longitude', 'Latitude', 'Parcel_Number', 'Land_Use_Code']
+
+CA_SanDiego_fd_incidents_2021_datasd_v1.csv
+['agency_type', 'call_category', 'address_city', 'incident_number', 'jurisdiction', 'problem', 'date_response', 'address_state', 'address_zip', 'day_response', 'month_response', 'year_response']
+
+CA_SanDiego_pd_calls_for_service_2021_datasd.csv
+['incident_num', 'date_time', 'day_of_week', 'address_number_primary', 'address_dir_primary', 'address_road_primary', 'address_sfx_primary', 'address_dir_intersecting', 'address_road_intersecting', 'address_sfx_intersecting', 'call_type', 'disposition', 'beat', 'priority']
+
+CA_SanFrancisco_Fire_Department_Calls_for_Service_2021.csv
+['Call Number', 'Unit ID', 'Incident Number', 'Call Type', 'Call Date', 'Watch Date', 'Received DtTm', 'Entry DtTm', 'Dispatch DtTm', 'Response DtTm', 'On Scene DtTm', 'Transport DtTm', 'Hospital DtTm', 'Call Final Disposition', 'Available DtTm', 'Address', 'City', 'Zipcode of Incident', 'Battalion', 'Station Area', 'Box', 'Original Priority', 'Priority', 'Final Priority', 'ALS Unit', 'Call Type Group', 'Number of Alarms', 'Unit Type', 'Unit sequence in call dispatch', 'Fire Prevention District', 'Supervisor District', 'Neighborhooods - Analysis Boundaries', 'RowID', 'case_location']
+
+CA_SanFrancisco_Law_Enforcement_Dispatched_Calls_for_Service__Closed.csv
+['cad_number', 'dup_cad_number', 'pd_incident_report', 'received_datetime', 'entry_datetime', 'dispatch_datetime', 'enroute_datetime', 'onscene_datetime', 'close_datetime', 'call_type_original', 'call_type_original_desc', 'call_type_original_notes', 'call_type_final', 'call_type_final_desc', 'call_type_final_notes', 'priority_original', 'priority_final', 'agency', 'disposition', 'onview_flag', 'sensitive_call', 'intersection_name', 'intersection_id', 'intersection_point', 'supervisor_district', 'analysis_neighborhood', 'police_district', 'data_as_of', 'data_updated_at', 'data_loaded_at', 'source_filename']
+
+CA_SanJose_policecalls2021.csv
+['CDTS', 'EID', 'START_DATE', 'CALL_NUMBER', 'PRIORITY', 'REPORT_DATE', 'OFFENSE_DATE', 'OFFENSE_TIME', 'CALLTYPE_CODE', 'CALL_TYPE', 'FINAL_DISPO_CODE', 'FINAL_DISPO', 'COMMON_PLACE_NAME', 'ADDRESS', 'CITY', 'STATE']
+
+CA_SanJose_sanjosefireincidentdata_2021.csv
+['Incident_No', 'Date_Time_Of_Event', 'Dispatched_Time', 'Unit_On_The_Way_Time', 'Unit_On_Scene_TimeStamp', 'On_Scene_Unit', 'Cleared_TimeStamp', 'Unit_Count', 'Priority', 'Final_Incident_Type', 'Final_Incident_Category', 'Near_X', 'Near_Y', 'Station', 'Battalion']
+
+FL_Gainesville_Crime_Responses.csv
+['ID', 'Incident Type', 'Report Date', 'Offense Date', 'Report Hour of Day', 'Report Day of Week', 'Offense Hour of Day', 'Offense Day of Week', 'City', 'State', 'Address', 'Latitude', 'Longitude', 'Location']
+
+FL_Gainesville_Fire_Rescue_Responses.csv
+['Master Incident Number', 'Response Date', 'Response Hour of Day', 'Response Day of Week', 'Response Type', 'Location Name', 'Responding Unit', 'Longitude', 'Latitude', 'Location']
+
+FL_StPete_Police_Calls.csv
+['ID', 'Event Number', 'Event Case Number', 'Type of Event', 'Event Subtype', 'Classification', 'Display Address', 'Crime date', 'Crime Time', 'Latitude', 'Longitude', 'Location', 'Submit an anonymous tip', 'Neighborhood Name', 'Council District', 'Event Subtype - Type of Event']
+
+ID_Boise_Police_Calls_for_Service.csv
+['OBJECTID', 'CADIncidentNumber', 'ResponseDateTime', 'Agency', 'FinalPriority', 'CallSource', 'CallType', 'IncidentCategory', 'CensusTract', 'GEOID', 'NeighborhoodAssociation', 'FirstAssFirstArrDurSec', 'FirstAssFirstArrDur', 'CallRecFirstAssDurSec', 'CallRecFirstAssDur', 'CallRecFirstArrDurSec', 'CallRecFirstArrDur', 'FirstAssLastClrDurSec', 'FirstAssLastClrDur', 'CallRecSecArrDur', 'CallRecSecArrDurSec']
+
+IN_Bloomington_Calls_for_Service.csv
+['case_number', 'datetime', 'month', 'weekday', 'nature', 'district', 'agency', 'report']
+
+IN_Bloomington_Fire_Incident_Responses.csv
+['unit', 'descript', 'inci_no', 'inci_type', 'inci_desc', 'resp_code', 'resp_desc', 'alm_datetime', 'notif_datetime', 'roll_datetime', 'arv_datetime', 'addr_type', 'address', 'addr_2', 'xstreet', 'rural', 'city', 'state', 'zip', 'fire', 'medical', 'rescue', 'other', 'resp_time', 'fdid']
+
+KY_Louisville_Fire_Open_Data.csv
+['AGENCY_NAME', 'DATE', 'CREATE', 'DISPATCH', 'ENROUTE', 'ARRIVE', 'CLEAR', 'HOUR OF', 'LOCATION', 'EVENT TYPE', 'PRIORITY', 'FD EVENT NUMBER', 'ZIP_CODE']
+
+LA_BatonRouge_Fire_Incidents.csv
+['INCIDENT NUMBER', 'EXPOSURE NUMBER', 'DISPATCH DATE', 'DISPATCH TIME', 'INCIDENT TYPE', 'INCIDENT DESCRIPTION', 'STREET NUMBER', 'STREET PREFIX', 'STREET NAME', 'STREET TYPE', 'STREET SUFFIX', 'FORMATTED STREET', 'CITY', 'STATE', 'ZIP CODE', 'APARTMENT', 'CROSS STREET PREFIX', 'CROSS STREET NAME', 'CROSS STREET TYPE', 'CROSS STREET SUFFIX', 'RURAL', 'PROPERTY LOSS', 'CONTENTS LOSS', 'FIRE SERVICE FATALITY', 'FIRE SERVICE INJURY', 'CIVILIAN FATALITY', 'CIVILIAN INJURY', 'PROPERTY VALUE', 'CONTENTS VALUE', 'ALARMS', 'SUPPRESSION APPARATUS', 'SUPPRESSION PERSONNEL', 'EMS APPARATUS', 'EMS PERSONNEL', 'RESCUE APPARATUS', 'RESCUE PERSONNEL', 'OTHER APPARATUS', 'OTHER PERSONNEL', 'CONTROL DATE', 'CONTROL TIME', 'CLEAR DATE', 'CLEAR TIME', 'CAUSE OF IGNITION', 'CAUSE OF IGNITION DESCRIPTION ', 'GEOLOCATION']
+
+LA_NewOrleans_Calls_for_Service_2021.csv
+['NOPD_Item', 'Type', 'TypeText', 'Priority', 'InitialType', 'InitialTypeText', 'InitialPriority', 'MapX', 'MapY', 'TimeCreate', 'TimeDispatch', 'TimeArrive', 'TimeClosed', 'Disposition', 'DispositionText', 'SelfInitiated', 'Beat', 'BLOCK_ADDRESS', 'Zip', 'PoliceDistrict', 'Location']
+
+MA_Worcester_Fire_Incidents_-_2015_to_Present.csv
+['Incident_Number', 'Date_Logged', 'Time_Logged', 'Department', 'Incident_Type', 'Location', 'ZipCode', 'ObjectId']
+
+MA_Worcester_Police_Incident_Data_-_2021.csv
+['Incident_Number', 'Date_Logged', 'Time_Logged', 'Department', 'Incident_Type', 'Location', 'ZipCode', 'ObjectId']
+
+MD_Baltimore_911_Calls_for_Service_2021_.csv
+['OBJECTID', 'callKey', 'callDateTime', 'priority', 'district', 'description', 'callNumber', 'incidentLocation', 'location', 'Neighborhood', 'PoliceDistrict', 'PolicePost', 'CouncilDistrict', 'SheriffDistricts', 'Community_Statistical_Areas', 'Census_Tracts', 'VRIZones', 'ZIPCode', 'NeedsSync', 'IsDeleted']
+
+MD_MontgomeryCounty_Police_Dispatched_Incidents.csv
+['Incident_ID', 'Crime Reports', 'Crash Reports', 'Start Time', 'End Time', 'Priority', 'Initial Type', 'Close Type', 'Address', 'City', 'State', 'Zip', 'Longitude', 'Latitude', 'Police District Number', 'Beat', 'PRA', 'CallTime CallRoute', 'Calltime Dispatch', 'Calltime Arrive', 'Calltime Cleared', 'CallRoute Dispatch', 'Dispatch Arrive', 'Arrive Cleared', 'Disposition Desc', 'Location']
+
+MI_Detroit_911_Calls_For_Service.csv
+['X', 'Y', 'incident_id', 'agency', 'incident_address', 'zip_code', 'priority', 'callcode', 'calldescription', 'category', 'call_timestamp', 'precinct_sca', 'respondingunit', 'officerinitiated', 'intaketime', 'dispatchtime', 'traveltime', 'totalresponsetime', 'time_on_scene', 'totaltime', 'neighborhood', 'block_id', 'council_district', 'longitude', 'latitude', 'oid']
+
+MN_SaintPaul_Emergency_Communications_Center_Incident_Data.csv
+['Master Incident Number', 'Response Date', 'Agency Type', 'Problem*', 'Jurisdiction', 'Division', 'Battalion', 'Street Name', 'City', 'Zip Code', 'State', 'Generalized Location City']
+
+NC_Asheville_APD_CAD_911_Calls_2021.csv
+['objectid', 'incident_number', 'call_time', 'address', 'call_nature', 'call_disposition']
+
+NC_Durham_dpd_calls_for_service_2021.csv
+['Event Number', 'Case Number', 'Call Date', 'Call Time', 'Source', 'Priority', 'Nature', 'Address', 'X', 'Y', 'District', 'Beat', 'Disposition', 'Cancelled']
+
+NE_Lincoln_LPD_Dispatch_Records_2021.csv
+['ADDRESS', 'LOC_CODE', 'CASE_', 'DATE_', 'TREC', 'INC_', 'CALL_TYPE', 'ObjectId']
+
+NJ_JerseyCity_fire-department-calls-2021.csv
+['Battalion #;# Calls;# Units Responded;Call Type;Category Type;Year;Date;Week Number']
+
+NV_LasVegas_Metro_CFS_OpenData.csv
+['ObjectId', 'Event_Number', 'Event_Date', 'Type', 'Type_Description', 'General_Location', 'Beat', 'Disposition', 'Map_X', 'Map_Y', 'New_Y', 'LAT', 'LONG', 'WARD']
+
+NY_Albany_APD_Calls_for_Service_by_Neighborhood.csv
+['Call', 'Call Date', 'Time Received', 'Call Type', 'Officer Initiated', 'Last 30 Days', 'City', 'State', 'Neighborhood Association', 'Neighborhood Association XY']
+
+NY_Buffalo_Received_Traffic_Incident_Calls.csv
+['Report Date', 'Accident Type', 'Address', 'City', 'State', 'Location', 'Zip Code', 'Latitude', 'Longitude', 'Council District', 'Police District', 'Neighborhood', 'Census Tract', 'Census Block Group', 'Census Block', '2010 Census Tract', '2010 Census Block Group', '2010 Census Block', 'Dispatch District', 'TRACTCE20', 'GEOID20_tract', 'GEOID20_blockgroup', 'GEOID20_block', 'Complaint ID']
+
+NY_NewYork_EMS_Incident_Dispatch_Data.csv
+['CAD_INCIDENT_ID', 'INCIDENT_DATETIME', 'INITIAL_CALL_TYPE', 'INITIAL_SEVERITY_LEVEL_CODE', 'FINAL_CALL_TYPE', 'FINAL_SEVERITY_LEVEL_CODE', 'FIRST_ASSIGNMENT_DATETIME', 'VALID_DISPATCH_RSPNS_TIME_INDC', 'DISPATCH_RESPONSE_SECONDS_QY', 'FIRST_ACTIVATION_DATETIME', 'FIRST_ON_SCENE_DATETIME', 'VALID_INCIDENT_RSPNS_TIME_INDC', 'INCIDENT_RESPONSE_SECONDS_QY', 'INCIDENT_TRAVEL_TM_SECONDS_QY', 'FIRST_TO_HOSP_DATETIME', 'FIRST_HOSP_ARRIVAL_DATETIME', 'INCIDENT_CLOSE_DATETIME', 'HELD_INDICATOR', 'INCIDENT_DISPOSITION_CODE', 'BOROUGH', 'INCIDENT_DISPATCH_AREA', 'ZIPCODE', 'POLICEPRECINCT', 'CITYCOUNCILDISTRICT', 'COMMUNITYDISTRICT', 'COMMUNITYSCHOOLDISTRICT', 'CONGRESSIONALDISTRICT', 'REOPEN_INDICATOR', 'SPECIAL_EVENT_INDICATOR', 'STANDBY_INDICATOR', 'TRANSFER_INDICATOR']
+
+NY_NewYork_Incidents_Responded_to_by_Fire_Companies.csv
+['IM_INCIDENT_KEY', 'FIRE_BOX', 'INCIDENT_TYPE_DESC', 'INCIDENT_DATE_TIME', 'ARRIVAL_DATE_TIME', 'UNITS_ONSCENE', 'LAST_UNIT_CLEARED_DATE_TIME', 'HIGHEST_LEVEL_DESC', 'TOTAL_INCIDENT_DURATION', 'ACTION_TAKEN1_DESC', 'ACTION_TAKEN2_DESC', 'ACTION_TAKEN3_DESC', 'PROPERTY_USE_DESC', 'STREET_HIGHWAY', 'ZIP_CODE', 'BOROUGH_DESC', 'FLOOR', 'CO_DETECTOR_PRESENT_DESC', 'FIRE_ORIGIN_BELOW_GRADE_FLAG', 'STORY_FIRE_ORIGIN_COUNT', 'FIRE_SPREAD_DESC', 'DETECTOR_PRESENCE_DESC', 'AES_PRESENCE_DESC', 'STANDPIPE_SYS_PRESENT_FLAG']
+
+NY_NewYork_NYPD_Calls_for_Service__Year_to_Date_.csv
+['CAD_EVNT_ID', 'CREATE_DATE', 'INCIDENT_DATE', 'INCIDENT_TIME', 'NYPD_PCT_CD', 'BORO_NM', 'PATRL_BORO_NM', 'GEO_CD_X', 'GEO_CD_Y', 'RADIO_CODE', 'TYP_DESC', 'CIP_JOBS', 'ADD_TS', 'DISP_TS', 'ARRIVD_TS', 'CLOSNG_TS', 'Latitude', 'Longitude']
+
+OH_Cincinnati_Emergency_Communications_Center__ECC__Calls.csv
+['SEIZURE_DATETIME', 'ABANDONED_SECS', 'AGENT_ROLE_NAME', 'ALI_CITY', 'ALI_CLASS', 'ALI_ELEVATION', 'ALI_ESN', 'ALI_LATITUDE', 'ALI_LONGITUDE', 'NEIGHBORHOOD', 'COMMUNITY_COUNCIL_NEIGHBORHOOD', 'ALI_LAW_FIRE_EMS', 'ALI_METERS', 'ALI_NENA_ID', 'ALI_QUERY_TIMESTAMP', 'ALI_STATE', 'ANSWER_SECS', 'CALL_DELIVERY_NODE', 'CALL_IDENTIFIER', 'CALL_QUEUE_ID', 'CALL_RECORD_ID', 'CALL_TYPE_ID', 'COUNTY', 'DURATION_SECS', 'EXTERNAL_TRANSFERRED', 'HOLD_SECS', 'IS_OUT_BOUND', 'IS_TTY', 'IS_UNINITIALIZED', 'IS_ABANDONED', 'LINE_NUMBER', 'POSITION_ID', 'PSAP_ID', 'QUEUE_SECS', 'QUEUE_WAIT_SECONDS', 'RELEASE_DATETIME', 'RELEASE_SECS', 'RING_SECS', 'ROUTE_NUMBER', 'SETUP_SECS', 'TALK_SECS', 'TRANSFER_RECEIVED_TIME', 'TRANSFER_SECS', 'TRANSFERRED', 'FCC_ID', 'PSAP_NAME']
+
+OH_Cincinnati_Fire_Incidents__CAD___including_EMS__ALS_BLS_.csv
+['ADDRESS_X', 'LATITUDE_X', 'LONGITUDE_X', 'AGENCY', 'CREATE_TIME_INCIDENT', 'DISPOSITION_TEXT', 'EVENT_NUMBER', 'INCIDENT_TYPE_ID', 'INCIDENT_TYPE_DESC', 'NEIGHBORHOOD', 'ARRIVAL_TIME_PRIMARY_UNIT', 'BEAT', 'CLOSED_TIME_INCIDENT', 'DISPATCH_TIME_PRIMARY_UNIT', 'CFD_INCIDENT_TYPE', 'CFD_INCIDENT_TYPE_GROUP', 'COMMUNITY_COUNCIL_NEIGHBORHOOD']
+
+OH_Cincinnati_PDI__Police_Data_Initiative__Police_Calls_for_Service__CAD_.csv
+['ADDRESS_X', 'AGENCY', 'CREATE_TIME_INCIDENT', 'DISPOSITION_TEXT', 'EVENT_NUMBER', 'INCIDENT_TYPE_ID', 'INCIDENT_TYPE_DESC', 'PRIORITY', 'PRIORITY_COLOR', 'ARRIVAL_TIME_PRIMARY_UNIT', 'CLOSED_TIME_INCIDENT', 'DISPATCH_TIME_PRIMARY_UNIT', 'BEAT', 'DISTRICT', 'SNA_NEIGHBORHOOD', 'CPD_NEIGHBORHOOD', 'COMMUNITY_COUNCIL_NEIGHBORHOOD', 'LATITUDE_X', 'LONGITUDE_X']
+
+OH_Dayton_CallsForService_OpenData_HOSTED.csv
+['OBJECTID', 'RowNumber', 'Self_Initiated', 'Priority', 'IncDisp', 'Year', 'Month', 'Day_Of_Week', 'Hour', 'Time_Response', 'Dispatch_Type', 'District', 'City', 'Call_Date', 'Neighborhood', 'Priority_Board', 'Call_Number']
+
+OR_Portland_DispatchedCalls_OpenData_2021.csv
+['CallNumber', 'ReportMonthYear', 'ReportDateTime', 'TimeInQueue_sec', 'TravelTime_sec', 'ResponseTime_sec', 'Priority', 'FinalCallGroup', 'FinalCallCategory', 'Neighborhood', 'Address', 'OpenDataX', 'OpenDataY', 'OpenDataLon', 'OpenDataLat']
+
+PA_Phyladelphia_incidents_part1_part2.csv
+['the_geom', 'cartodb_id', 'the_geom_webmercator', 'objectid', 'dc_dist', 'psa', 'dispatch_date_time', 'dispatch_date', 'dispatch_time', 'hour_', 'dc_key', 'location_block', 'ucr_general', 'text_general_code', 'point_x', 'point_y', 'lat', 'lng']
+
+PA_Pittsburgh_EMS_ff33ca18-2e0c-4cb5-bdcd-60a5dc3c0418.csv
+['_id', 'call_id_hash', 'service', 'priority', 'priority_desc', 'call_quarter', 'call_year', 'description_short', 'city_code', 'city_name', 'geoid', 'census_block_group_center__x', 'census_block_group_center__y']
+
+PA_Pittsburgh_Fire_b6340d98-69a0-4965-a9b4-3480cea1182b.csv
+['_id', 'call_id_hash', 'service', 'priority', 'priority_desc', 'call_quarter', 'call_year', 'description_short', 'city_code', 'city_name', 'geoid', 'census_block_group_center__x', 'census_block_group_center__y']
+
+SC_Charleston_2021CADYTD_3.csv
+['Master_Incident_Number', 'Response_Date', 'Problem', 'Address', 'City', 'State', 'Postal_Code', 'Call_Disposition', 'Time_CallClosed', 'LONGITUDE', 'LATITUDE']
+
+VA_Charlottesville_Crime_Data.csv
+['RecordID', 'Offense', 'IncidentID', 'BlockNumber', 'StreetName', 'Agency', 'DateReported', 'HourReported', 'ReportingOfficer']
+
+VA_Charlottesville_Historical_Fire_Data.csv
+['RecordID', 'Incident_ID', 'AddressRaw', 'AddressStandardized', 'AlarmDateTimeAmericaNY', 'CauseOfIgnition', 'FireAreaOfOrigin', 'FireType', 'HeatSource', 'IncidentDurationMinutes', 'ItemFirstIgnited', 'Latitude', 'Longitude', 'PropertyLossDollars', 'PropertyUse', 'StreetName', 'StreetNumber', 'StreetPostDirection', 'StreetPredirection', 'StreetSuffix', 'UnitFirstArrive', 'UnitFirstResponseTimeMinutes', 'Year', 'ZipCode']
+
+VA_Virginia Beach_EMS_Calls_For_Service_3e03dc00-a196-48ec-af62-0eaf028f5c27.csv
+['_id', 'EMS Call Number', 'Block Address', 'City', 'State', 'Call Priority', 'Rescue Squad Number', 'Call Date and Time', 'Entry Date and Time', 'Dispatch Date and Time', 'En route Date and Time', 'On Scene Date and Time', 'Close Date and Time']
+
+VA_Virginia Beach_Fire_Calls_For_Service_fcdd005c-6dde-48e2-80fe-31a83108f50e.csv
+['_id', 'Incident ID', 'Incident Type', 'Call Date and Time', 'Dispatch Date and Time', 'En Route and Time', 'On Scene Date and Time', 'Close Date and Time', 'Location', 'City', 'State', 'Zip', 'Exposure Number', 'Battalion', 'Station Area', 'Fire Suppression Units', 'Fire Suppression Personnel', 'First Unit on Scene', 'Estimated Property Loss', 'Estimated Contents Loss', 'Fire Personnel Fatalities', 'Fire Personnel Injuries', 'Civilian Fatalities', 'Civilian Injuries', 'Action Taken - Primary', 'Action Taken - Secondary', 'Action Taken - Other', 'Property Type', 'Detector', 'Detector Alerted Occupants', 'Area of Fire Origin', 'Ignition Cause', 'Ignition Factor Primary', 'Ignition Factor Secondary', 'Heat Source', 'Item First Ignited', 'Human Factor', 'Structure Type', 'Structure Status', 'Floore of Fire Origin', 'Automatic Extinguishing System Present', 'Automatic Extinguishing System Activated', 'Sprinkler Heads Operating']
+
+VA_VirginiaBeach_Police_Calls_For_Service_2021.csv
+['Incident Number', 'Report Number', 'Call Type', 'Block Address', 'City', 'State', 'Zone', 'Case Disposition', 'Priority', 'Subdivision', 'Call Date', 'Call Time', 'Call Date/Time', 'Entry Date/Time', 'Dispatch Date/Time', 'En Route Date/Time', 'On Scene Date/Time', 'Close Date/Time']
+
+VT_Burlington_police-incidents-2021.csv
+['incident_number', 'call_type', 'call_type_group', 'call_time', 'Street', 'call_origin', 'mental_health', 'drug_related', 'dv_related', 'alcohol_related', 'AreaName', 'Latitude', 'Longitude', 'DayOfWeek', 'WARD', 'DISTRICT', 'priority', 'Month']
+
+WA_Seattle_Call_Data.csv
+['CAD Event Number', 'Event Clearance Description', 'Call Type', 'Priority', 'Initial Call Type', 'Final Call Type', 'Original Time Queued', 'Arrived Time', 'Precinct', 'Sector', 'Beat']
+
+WA_Seattle_Real_Time_Fire_911_Calls.csv
+['Address', 'Type', 'Datetime', 'Latitude', 'Longitude', 'Report Location', 'Incident Number']
+
